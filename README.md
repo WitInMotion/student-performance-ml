@@ -1,6 +1,6 @@
 Student Performance Prediction (Machine Learning Project)
 
- Overview
+   Overview
 
 This project develops a Machine Learning classification model to predict whether a student will pass or fail based on academic, demographic, and behavioral features.
 
@@ -12,7 +12,7 @@ Fail (0) → Grade < 10
 
 The objective is to analyze factors influencing student performance and evaluate different classification models.
 
- Tech Stack
+   Tech Stack
 
 Python
 
@@ -26,7 +26,7 @@ Seaborn
 
 Scikit-learn
 
- Project Workflow
+     Project Workflow
 
 Data Loading and Inspection
 
@@ -48,7 +48,7 @@ Model Evaluation
 
 Feature Importance Analysis
 
- Results
+    Results
 
 The Random Forest model achieved strong predictive performance on the test dataset.
 

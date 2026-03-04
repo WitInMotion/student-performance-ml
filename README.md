@@ -26,7 +26,7 @@ Seaborn
 
 Scikit-learn
 
-     Project Workflow
+  Project Workflow
 
 Data Loading and Inspection
 
@@ -48,7 +48,7 @@ Model Evaluation
 
 Feature Importance Analysis
 
-    Results
+  Results
 
 The Random Forest model achieved strong predictive performance on the test dataset.
 
